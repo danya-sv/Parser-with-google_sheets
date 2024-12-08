@@ -64,6 +64,7 @@ cover/
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
+creds.json
 
 # Flask stuff:
 instance/
@@ -172,6 +173,6 @@ poetry.toml
 
 # LSP config files
 pyrightconfig.json
-creds.json
+
 
 # End of https://www.toptal.com/developers/gitignore/api/python
